@@ -1,0 +1,301 @@
+Date,Engineer_ID,Instrument_ID,Maintenance_Type,Duration_Minutes,Hospital_Location,Instrument_Model,Shift_Type,Weather_Condition,Instrument_Age_Years,Engineer_Certification_Level,Maintenance_Notes
+2025-06-06,ENG010,INST009,Calibration,51,Sheffield,Model B,Afternoon,Cloudy,10,Level 3,Routine check completed
+2025-04-25,ENG009,INST006,Routine Check,74,Sheffield,Model A,Afternoon,Sunny,10,Expert,Routine check completed
+2025-05-03,ENG007,INST008,Routine Check,46,Liverpool,Model B,Afternoon,Snowy,7,Expert,Routine check completed
+2025-05-29,ENG001,INST014,Repair,89,Edinburgh,Model C,Afternoon,Cloudy,1,Level 2,Routine check completed
+2025-07-23,ENG008,INST013,Repair,90,London,Model B,Night,Sunny,10,Level 1,Calibration required
+2025-08-18,ENG010,INST020,Repair,49,London,Model A,Afternoon,Cloudy,9,Level 1,Replaced worn parts
+2025-09-19,ENG008,INST002,Repair,70,Leeds,Model B,Night,Sunny,4,Level 1,Replaced worn parts
+2025-05-18,ENG007,INST003,Upgrade,67,Bristol,Model B,Afternoon,Cloudy,2,Level 2,Routine check completed
+2025-09-15,ENG010,INST011,Upgrade,34,Sheffield,Model C,Night,Snowy,9,Level 2,Calibration required
+2025-06-30,ENG003,INST010,Routine Check,86,Sheffield,Model A,Night,Sunny,5,Expert,Calibration required
+2025-07-03,ENG006,INST001,Routine Check,25,Liverpool,Model C,Afternoon,Snowy,8,Expert,Routine check completed
+2025-06-05,ENG006,INST013,Routine Check,59,Edinburgh,Model C,Morning,Rainy,2,Expert,Calibration required
+2025-05-02,ENG009,INST006,Repair,75,Liverpool,Model A,Night,Cloudy,5,Level 3,No issues found
+2025-05-20,ENG005,INST003,Routine Check,70,Glasgow,Model C,Night,Sunny,4,Expert,Replaced worn parts
+2025-09-27,ENG002,INST010,Calibration,63,Leeds,Model B,Morning,Rainy,5,Expert,Calibration required
+2025-05-02,ENG006,INST016,Repair,61,Edinburgh,Model A,Morning,Sunny,7,Level 2,Routine check completed
+2025-07-26,ENG006,INST011,Calibration,70,Edinburgh,Model B,Afternoon,Sunny,10,Level 1,Replaced worn parts
+2025-07-20,ENG004,INST002,Upgrade,54,Manchester,Model B,Afternoon,Snowy,7,Level 1,Routine check completed
+2025-05-04,ENG002,INST005,Repair,32,Leeds,Model A,Morning,Snowy,1,Level 2,Calibration required
+2025-09-11,ENG001,INST010,Routine Check,47,Bristol,Model A,Night,Sunny,6,Level 1,No issues found
+2025-05-27,ENG010,INST010,Routine Check,40,Edinburgh,Model A,Afternoon,Cloudy,2,Expert,Replaced worn parts
+2025-05-27,ENG006,INST010,Repair,32,Glasgow,Model B,Morning,Sunny,1,Level 2,Routine check completed
+2025-05-30,ENG002,INST009,Calibration,77,Liverpool,Model C,Afternoon,Rainy,7,Level 2,Routine check completed
+2025-05-05,ENG010,INST006,Calibration,65,London,Model C,Morning,Sunny,8,Level 2,Routine check completed
+2025-08-09,ENG007,INST019,Calibration,81,Liverpool,Model B,Night,Rainy,10,Level 1,Routine check completed
+2025-05-26,ENG009,INST015,Upgrade,37,Liverpool,Model D,Morning,Cloudy,8,Level 1,Follow-up needed
+2025-07-14,ENG001,INST007,Calibration,76,Glasgow,Model B,Night,Sunny,2,Level 1,Calibration required
+2025-07-06,ENG001,INST010,Routine Check,46,Birmingham,Model C,Night,Rainy,3,Level 2,Routine check completed
+2025-04-18,ENG007,INST018,Calibration,53,London,Model A,Night,Sunny,2,Expert,No issues found
+2025-06-06,ENG009,INST017,Upgrade,55,Manchester,Model C,Morning,Snowy,1,Level 2,Routine check completed
+2025-04-18,ENG001,INST001,Routine Check,78,Glasgow,Model A,Morning,Rainy,4,Level 1,Replaced worn parts
+2025-08-23,ENG008,INST008,Upgrade,78,Manchester,Model D,Night,Cloudy,2,Level 3,Routine check completed
+2025-09-16,ENG007,INST018,Calibration,36,Birmingham,Model C,Night,Sunny,4,Expert,Routine check completed
+2025-08-09,ENG006,INST012,Calibration,23,Sheffield,Model B,Night,Cloudy,6,Level 1,Follow-up needed
+2025-04-28,ENG008,INST001,Upgrade,33,Birmingham,Model D,Night,Rainy,2,Level 1,Calibration required
+2025-06-05,ENG008,INST019,Routine Check,40,Bristol,Model B,Night,Cloudy,4,Expert,No issues found
+2025-09-26,ENG007,INST013,Upgrade,59,Manchester,Model C,Night,Cloudy,9,Expert,No issues found
+2025-09-28,ENG004,INST005,Upgrade,49,Leeds,Model A,Afternoon,Sunny,3,Level 1,Routine check completed
+2025-04-22,ENG005,INST010,Calibration,24,Manchester,Model C,Afternoon,Rainy,2,Expert,Follow-up needed
+2025-07-07,ENG002,INST007,Calibration,38,Sheffield,Model D,Morning,Sunny,7,Level 3,No issues found
+2025-04-14,ENG010,INST004,Upgrade,61,Bristol,Model B,Morning,Cloudy,9,Expert,Replaced worn parts
+2025-09-06,ENG004,INST005,Calibration,83,London,Model A,Afternoon,Rainy,3,Expert,Replaced worn parts
+2025-05-28,ENG008,INST003,Repair,37,Birmingham,Model D,Night,Rainy,7,Level 3,No issues found
+2025-09-01,ENG005,INST016,Routine Check,37,Newcastle,Model A,Afternoon,Snowy,8,Level 1,Calibration required
+2025-06-12,ENG003,INST005,Calibration,35,London,Model B,Morning,Snowy,7,Expert,No issues found
+2025-08-11,ENG003,INST013,Upgrade,26,Sheffield,Model A,Night,Rainy,5,Level 3,Replaced worn parts
+2025-04-20,ENG007,INST004,Routine Check,20,Edinburgh,Model A,Morning,Snowy,3,Level 2,Follow-up needed
+2025-09-05,ENG002,INST020,Upgrade,42,Edinburgh,Model A,Morning,Cloudy,1,Level 2,Follow-up needed
+2025-05-31,ENG002,INST001,Calibration,21,Newcastle,Model C,Morning,Cloudy,3,Level 3,Replaced worn parts
+2025-04-20,ENG003,INST015,Calibration,21,Manchester,Model C,Night,Cloudy,6,Level 2,Routine check completed
+2025-09-16,ENG005,INST011,Routine Check,88,Liverpool,Model C,Afternoon,Sunny,7,Level 1,Routine check completed
+2025-05-28,ENG005,INST015,Repair,27,Edinburgh,Model C,Night,Sunny,10,Level 2,Follow-up needed
+2025-07-13,ENG001,INST006,Upgrade,75,Leeds,Model C,Morning,Sunny,8,Expert,Routine check completed
+2025-06-19,ENG003,INST015,Calibration,38,Edinburgh,Model A,Morning,Snowy,9,Level 2,Routine check completed
+2025-08-14,ENG006,INST006,Calibration,43,Liverpool,Model C,Morning,Cloudy,6,Level 3,Calibration required
+2025-08-02,ENG004,INST014,Upgrade,87,Bristol,Model B,Night,Snowy,3,Level 2,No issues found
+2025-06-06,ENG010,INST010,Repair,43,Birmingham,Model A,Night,Rainy,4,Level 1,Routine check completed
+2025-06-01,ENG006,INST009,Repair,29,Glasgow,Model B,Morning,Snowy,1,Level 2,Routine check completed
+2025-07-11,ENG002,INST020,Routine Check,50,Glasgow,Model B,Morning,Snowy,10,Level 1,No issues found
+2025-07-18,ENG009,INST002,Routine Check,55,Sheffield,Model C,Afternoon,Snowy,5,Level 1,Replaced worn parts
+2025-04-21,ENG001,INST009,Repair,41,Glasgow,Model B,Morning,Rainy,2,Level 3,Routine check completed
+2025-08-21,ENG006,INST009,Routine Check,65,Sheffield,Model B,Afternoon,Cloudy,4,Level 2,Replaced worn parts
+2025-04-27,ENG001,INST003,Routine Check,53,Edinburgh,Model D,Night,Sunny,10,Level 3,Follow-up needed
+2025-09-21,ENG005,INST013,Routine Check,44,Birmingham,Model D,Afternoon,Sunny,9,Level 1,Follow-up needed
+2025-07-17,ENG010,INST014,Routine Check,80,Newcastle,Model D,Afternoon,Snowy,7,Level 3,Replaced worn parts
+2025-07-24,ENG003,INST009,Calibration,49,Liverpool,Model C,Night,Cloudy,8,Level 1,Follow-up needed
+2025-04-15,ENG010,INST017,Calibration,66,Sheffield,Model C,Night,Cloudy,8,Level 1,No issues found
+2025-05-06,ENG005,INST009,Repair,50,Birmingham,Model C,Afternoon,Sunny,3,Expert,Replaced worn parts
+2025-07-04,ENG001,INST016,Repair,82,Birmingham,Model C,Afternoon,Cloudy,1,Level 2,Routine check completed
+2025-09-21,ENG010,INST015,Routine Check,72,Liverpool,Model B,Morning,Snowy,8,Level 3,Routine check completed
+2025-06-22,ENG006,INST002,Repair,80,Glasgow,Model B,Night,Snowy,10,Level 2,No issues found
+2025-09-01,ENG007,INST015,Repair,40,Edinburgh,Model C,Morning,Sunny,5,Expert,No issues found
+2025-06-03,ENG009,INST017,Repair,63,London,Model B,Morning,Sunny,6,Expert,Calibration required
+2025-09-06,ENG006,INST012,Routine Check,77,Leeds,Model C,Morning,Sunny,1,Expert,Replaced worn parts
+2025-05-21,ENG009,INST005,Repair,89,Sheffield,Model C,Afternoon,Sunny,9,Level 2,Routine check completed
+2025-06-12,ENG006,INST015,Routine Check,56,Glasgow,Model A,Afternoon,Cloudy,9,Expert,Follow-up needed
+2025-04-16,ENG002,INST016,Repair,90,Bristol,Model D,Night,Rainy,8,Level 2,No issues found
+2025-04-06,ENG009,INST020,Repair,29,Edinburgh,Model D,Morning,Snowy,10,Expert,Follow-up needed
+2025-08-16,ENG004,INST015,Repair,30,Leeds,Model D,Afternoon,Sunny,10,Level 1,Calibration required
+2025-08-24,ENG001,INST002,Repair,88,Sheffield,Model D,Afternoon,Rainy,9,Level 2,Follow-up needed
+2025-07-30,ENG009,INST009,Calibration,65,Newcastle,Model A,Afternoon,Cloudy,6,Level 3,Follow-up needed
+2025-09-17,ENG008,INST005,Upgrade,82,Liverpool,Model B,Afternoon,Sunny,6,Level 1,No issues found
+2025-06-07,ENG009,INST007,Routine Check,54,Leeds,Model C,Morning,Rainy,2,Level 2,Calibration required
+2025-04-17,ENG006,INST017,Upgrade,51,Edinburgh,Model A,Morning,Rainy,6,Level 3,Calibration required
+2025-04-13,ENG001,INST018,Repair,65,Birmingham,Model B,Night,Sunny,2,Level 3,Routine check completed
+2025-07-28,ENG007,INST020,Calibration,30,Leeds,Model D,Night,Sunny,10,Level 1,Follow-up needed
+2025-07-05,ENG007,INST003,Repair,87,Bristol,Model A,Night,Cloudy,2,Level 2,Routine check completed
+2025-06-01,ENG007,INST005,Calibration,45,Liverpool,Model C,Afternoon,Rainy,7,Level 2,Replaced worn parts
+2025-07-01,ENG009,INST012,Upgrade,34,London,Model D,Afternoon,Snowy,7,Level 3,Replaced worn parts
+2025-05-12,ENG001,INST020,Upgrade,87,Edinburgh,Model B,Night,Rainy,2,Level 3,No issues found
+2025-05-17,ENG007,INST006,Repair,39,London,Model C,Afternoon,Rainy,5,Expert,Calibration required
+2025-07-03,ENG007,INST005,Routine Check,51,Newcastle,Model C,Night,Snowy,8,Level 2,Replaced worn parts
+2025-08-03,ENG009,INST013,Calibration,65,Liverpool,Model B,Night,Snowy,4,Level 2,Follow-up needed
+2025-06-26,ENG004,INST015,Routine Check,56,Sheffield,Model A,Afternoon,Sunny,10,Level 1,Routine check completed
+2025-07-10,ENG006,INST020,Upgrade,53,Sheffield,Model B,Morning,Cloudy,4,Level 1,Follow-up needed
+2025-09-03,ENG010,INST009,Repair,56,Sheffield,Model A,Night,Sunny,9,Level 3,Routine check completed
+2025-08-02,ENG006,INST019,Routine Check,71,London,Model B,Afternoon,Sunny,4,Expert,Replaced worn parts
+2025-08-10,ENG007,INST006,Repair,62,Leeds,Model D,Afternoon,Sunny,3,Expert,No issues found
+2025-09-06,ENG003,INST020,Calibration,32,Liverpool,Model B,Night,Snowy,3,Expert,Routine check completed
+2025-05-31,ENG009,INST012,Routine Check,89,Birmingham,Model A,Morning,Sunny,2,Level 2,No issues found
+2025-07-04,ENG002,INST020,Repair,30,Edinburgh,Model A,Night,Rainy,9,Expert,Routine check completed
+2025-06-24,ENG004,INST011,Upgrade,57,Newcastle,Model D,Night,Sunny,1,Level 2,Routine check completed
+2025-08-13,ENG010,INST004,Upgrade,82,Glasgow,Model D,Night,Snowy,3,Level 3,No issues found
+2025-04-06,ENG007,INST014,Repair,22,Liverpool,Model D,Morning,Snowy,10,Level 2,Replaced worn parts
+2025-05-30,ENG004,INST009,Upgrade,85,Liverpool,Model A,Afternoon,Sunny,7,Level 2,Calibration required
+2025-04-01,ENG005,INST002,Calibration,57,Manchester,Model A,Night,Snowy,6,Level 3,Replaced worn parts
+2025-07-14,ENG007,INST011,Routine Check,31,Glasgow,Model C,Night,Snowy,3,Level 2,Calibration required
+2025-09-02,ENG008,INST005,Upgrade,27,Edinburgh,Model D,Night,Cloudy,7,Expert,No issues found
+2025-04-18,ENG004,INST019,Upgrade,89,Glasgow,Model D,Afternoon,Cloudy,5,Expert,Routine check completed
+2025-05-17,ENG006,INST016,Routine Check,27,Liverpool,Model D,Afternoon,Sunny,4,Level 3,Routine check completed
+2025-06-13,ENG001,INST003,Repair,24,Manchester,Model C,Afternoon,Sunny,2,Level 2,Follow-up needed
+2025-06-27,ENG009,INST014,Calibration,30,Bristol,Model B,Night,Sunny,7,Level 2,Follow-up needed
+2025-08-27,ENG006,INST013,Routine Check,54,Leeds,Model A,Night,Snowy,8,Level 2,No issues found
+2025-08-01,ENG001,INST002,Calibration,67,Bristol,Model C,Night,Cloudy,1,Level 1,Routine check completed
+2025-05-22,ENG003,INST007,Repair,90,Sheffield,Model A,Night,Sunny,7,Level 2,Calibration required
+2025-05-30,ENG002,INST018,Upgrade,90,Liverpool,Model A,Morning,Rainy,1,Expert,Calibration required
+2025-05-18,ENG007,INST011,Calibration,64,London,Model A,Morning,Snowy,4,Level 3,Replaced worn parts
+2025-09-03,ENG006,INST019,Repair,55,Leeds,Model C,Morning,Sunny,7,Level 3,Follow-up needed
+2025-05-14,ENG007,INST020,Upgrade,40,Newcastle,Model C,Night,Snowy,3,Level 2,Follow-up needed
+2025-09-13,ENG005,INST014,Upgrade,53,London,Model C,Afternoon,Rainy,6,Level 3,No issues found
+2025-06-21,ENG008,INST005,Upgrade,43,Leeds,Model A,Morning,Snowy,2,Expert,Follow-up needed
+2025-05-07,ENG002,INST015,Calibration,30,Leeds,Model A,Afternoon,Snowy,8,Level 3,Calibration required
+2025-05-18,ENG007,INST004,Repair,90,London,Model B,Morning,Snowy,4,Level 2,Routine check completed
+2025-05-11,ENG009,INST001,Routine Check,62,Liverpool,Model A,Morning,Cloudy,8,Level 3,Calibration required
+2025-09-28,ENG002,INST018,Repair,84,Glasgow,Model D,Night,Cloudy,7,Level 3,Follow-up needed
+2025-08-21,ENG001,INST004,Calibration,44,Liverpool,Model D,Afternoon,Rainy,6,Level 3,Calibration required
+2025-05-02,ENG005,INST004,Upgrade,28,Birmingham,Model B,Morning,Sunny,1,Level 1,Replaced worn parts
+2025-07-25,ENG005,INST001,Calibration,28,Edinburgh,Model A,Morning,Cloudy,4,Level 1,No issues found
+2025-05-07,ENG008,INST002,Repair,38,Newcastle,Model A,Morning,Sunny,6,Expert,Follow-up needed
+2025-09-15,ENG007,INST009,Repair,24,Liverpool,Model D,Morning,Sunny,4,Level 2,Calibration required
+2025-07-06,ENG010,INST005,Upgrade,34,Liverpool,Model A,Morning,Sunny,7,Level 1,Follow-up needed
+2025-08-04,ENG007,INST004,Calibration,36,London,Model B,Morning,Rainy,2,Level 1,Replaced worn parts
+2025-09-30,ENG010,INST016,Upgrade,44,Bristol,Model A,Night,Snowy,7,Level 1,No issues found
+2025-06-16,ENG005,INST009,Routine Check,29,Sheffield,Model A,Night,Rainy,4,Level 3,Replaced worn parts
+2025-05-13,ENG010,INST013,Upgrade,49,Leeds,Model D,Afternoon,Snowy,3,Level 3,Replaced worn parts
+2025-06-02,ENG009,INST003,Routine Check,52,Manchester,Model B,Afternoon,Rainy,4,Level 1,Follow-up needed
+2025-07-18,ENG009,INST001,Repair,37,Bristol,Model D,Afternoon,Sunny,7,Expert,Replaced worn parts
+2025-06-04,ENG007,INST015,Calibration,77,Leeds,Model B,Morning,Sunny,4,Level 3,Replaced worn parts
+2025-05-01,ENG002,INST014,Repair,20,Leeds,Model B,Night,Snowy,7,Level 2,No issues found
+2025-07-20,ENG008,INST015,Upgrade,56,Sheffield,Model A,Afternoon,Snowy,1,Level 3,Replaced worn parts
+2025-08-04,ENG009,INST005,Upgrade,87,Newcastle,Model B,Afternoon,Rainy,10,Level 2,Replaced worn parts
+2025-08-26,ENG009,INST011,Routine Check,71,London,Model B,Night,Snowy,4,Level 2,Follow-up needed
+2025-07-01,ENG002,INST019,Routine Check,84,Leeds,Model B,Afternoon,Snowy,2,Level 2,Routine check completed
+2025-08-16,ENG002,INST007,Upgrade,35,Bristol,Model B,Morning,Snowy,7,Expert,Replaced worn parts
+2025-07-18,ENG002,INST011,Upgrade,37,Bristol,Model D,Afternoon,Snowy,3,Level 2,Follow-up needed
+2025-07-10,ENG010,INST014,Repair,83,Manchester,Model C,Night,Sunny,7,Expert,No issues found
+2025-05-14,ENG003,INST009,Routine Check,59,London,Model D,Afternoon,Rainy,6,Level 1,No issues found
+2025-05-04,ENG006,INST016,Upgrade,69,Birmingham,Model B,Afternoon,Cloudy,9,Level 1,Routine check completed
+2025-04-02,ENG007,INST011,Calibration,72,Birmingham,Model A,Night,Cloudy,5,Expert,Follow-up needed
+2025-05-12,ENG002,INST007,Upgrade,24,Bristol,Model B,Morning,Cloudy,4,Level 3,Replaced worn parts
+2025-06-24,ENG002,INST013,Routine Check,23,Glasgow,Model D,Afternoon,Rainy,4,Level 2,No issues found
+2025-09-17,ENG003,INST001,Upgrade,75,Newcastle,Model B,Afternoon,Sunny,5,Expert,Calibration required
+2025-08-29,ENG002,INST017,Calibration,75,Edinburgh,Model D,Morning,Snowy,1,Level 2,Routine check completed
+2025-09-25,ENG006,INST014,Upgrade,31,Manchester,Model C,Night,Cloudy,7,Level 3,Calibration required
+2025-06-08,ENG006,INST009,Routine Check,63,Manchester,Model A,Morning,Rainy,10,Level 1,No issues found
+2025-05-19,ENG004,INST005,Calibration,36,Glasgow,Model C,Morning,Rainy,8,Level 2,Calibration required
+2025-04-25,ENG006,INST016,Calibration,74,London,Model C,Morning,Rainy,3,Expert,No issues found
+2025-06-23,ENG007,INST018,Upgrade,72,Newcastle,Model B,Afternoon,Cloudy,1,Level 1,Follow-up needed
+2025-06-10,ENG006,INST010,Upgrade,20,Bristol,Model C,Morning,Cloudy,7,Expert,Routine check completed
+2025-04-16,ENG007,INST019,Calibration,88,Birmingham,Model D,Afternoon,Rainy,2,Level 2,Routine check completed
+2025-09-22,ENG007,INST002,Routine Check,26,Newcastle,Model B,Afternoon,Cloudy,2,Expert,Follow-up needed
+2025-06-03,ENG007,INST013,Repair,21,Liverpool,Model C,Night,Sunny,3,Level 1,Routine check completed
+2025-09-04,ENG005,INST007,Upgrade,37,Manchester,Model D,Morning,Snowy,10,Level 3,Routine check completed
+2025-05-27,ENG009,INST017,Upgrade,65,Edinburgh,Model D,Afternoon,Rainy,10,Expert,Replaced worn parts
+2025-05-07,ENG001,INST015,Routine Check,52,Liverpool,Model A,Night,Snowy,5,Level 2,No issues found
+2025-09-13,ENG003,INST003,Routine Check,62,London,Model A,Afternoon,Cloudy,5,Level 3,Follow-up needed
+2025-07-19,ENG003,INST003,Routine Check,30,Newcastle,Model A,Night,Sunny,3,Expert,No issues found
+2025-08-12,ENG010,INST011,Calibration,84,Liverpool,Model B,Night,Sunny,1,Level 2,Replaced worn parts
+2025-08-14,ENG002,INST001,Repair,21,Leeds,Model C,Morning,Sunny,6,Level 2,Follow-up needed
+2025-06-13,ENG006,INST016,Repair,46,Liverpool,Model A,Afternoon,Snowy,5,Level 1,Replaced worn parts
+2025-07-05,ENG004,INST009,Routine Check,22,Sheffield,Model A,Afternoon,Rainy,5,Level 3,No issues found
+2025-06-20,ENG001,INST010,Routine Check,53,Newcastle,Model D,Night,Rainy,7,Level 1,Routine check completed
+2025-07-24,ENG009,INST002,Calibration,53,London,Model A,Morning,Snowy,6,Level 1,Replaced worn parts
+2025-07-19,ENG004,INST020,Upgrade,52,Glasgow,Model A,Night,Cloudy,7,Level 1,Calibration required
+2025-04-19,ENG009,INST016,Upgrade,67,Manchester,Model D,Afternoon,Cloudy,3,Level 3,Replaced worn parts
+2025-08-14,ENG004,INST013,Routine Check,40,Leeds,Model D,Night,Sunny,4,Level 2,Follow-up needed
+2025-05-29,ENG007,INST002,Calibration,55,Liverpool,Model A,Night,Rainy,8,Level 1,Calibration required
+2025-07-03,ENG002,INST019,Repair,36,Edinburgh,Model A,Afternoon,Sunny,4,Level 3,No issues found
+2025-04-07,ENG008,INST019,Routine Check,60,Glasgow,Model B,Morning,Snowy,10,Expert,Calibration required
+2025-04-26,ENG009,INST003,Repair,72,Newcastle,Model D,Afternoon,Cloudy,9,Level 2,Routine check completed
+2025-06-24,ENG007,INST002,Repair,73,Leeds,Model A,Morning,Snowy,3,Expert,Replaced worn parts
+2025-05-05,ENG009,INST010,Routine Check,31,Newcastle,Model A,Night,Snowy,7,Level 1,Follow-up needed
+2025-05-17,ENG009,INST003,Repair,45,Glasgow,Model D,Morning,Sunny,2,Level 3,Follow-up needed
+2025-06-30,ENG010,INST010,Repair,50,Liverpool,Model A,Morning,Rainy,7,Level 1,Follow-up needed
+2025-08-20,ENG007,INST018,Routine Check,21,Edinburgh,Model D,Night,Sunny,8,Level 3,Calibration required
+2025-05-30,ENG001,INST014,Upgrade,32,Manchester,Model A,Night,Sunny,7,Level 1,Calibration required
+2025-06-17,ENG010,INST009,Upgrade,45,London,Model A,Night,Cloudy,1,Level 2,Calibration required
+2025-06-25,ENG002,INST011,Calibration,54,Leeds,Model B,Morning,Snowy,5,Level 1,Routine check completed
+2025-09-26,ENG003,INST013,Repair,84,Bristol,Model C,Afternoon,Cloudy,2,Level 3,Routine check completed
+2025-08-17,ENG006,INST009,Repair,50,Liverpool,Model D,Night,Cloudy,8,Level 2,Calibration required
+2025-09-21,ENG008,INST009,Calibration,45,Liverpool,Model D,Afternoon,Cloudy,6,Expert,Follow-up needed
+2025-04-05,ENG003,INST009,Routine Check,58,Edinburgh,Model C,Morning,Snowy,3,Level 2,No issues found
+2025-08-27,ENG001,INST013,Repair,22,Glasgow,Model D,Morning,Snowy,10,Level 2,Follow-up needed
+2025-04-08,ENG006,INST006,Upgrade,65,Edinburgh,Model A,Afternoon,Rainy,4,Level 2,Calibration required
+2025-07-08,ENG001,INST019,Calibration,66,Glasgow,Model D,Afternoon,Rainy,9,Level 1,Calibration required
+2025-07-16,ENG008,INST007,Repair,27,Leeds,Model B,Morning,Sunny,3,Level 2,Replaced worn parts
+2025-07-15,ENG003,INST010,Calibration,43,Bristol,Model A,Morning,Sunny,2,Level 2,Replaced worn parts
+2025-06-21,ENG002,INST008,Repair,52,London,Model D,Morning,Sunny,5,Expert,Calibration required
+2025-04-20,ENG008,INST005,Routine Check,38,Edinburgh,Model D,Morning,Rainy,8,Expert,No issues found
+2025-08-12,ENG001,INST004,Repair,59,Leeds,Model A,Night,Rainy,10,Level 2,No issues found
+2025-04-26,ENG009,INST001,Repair,28,Manchester,Model B,Afternoon,Snowy,10,Level 3,Replaced worn parts
+2025-06-03,ENG003,INST008,Routine Check,47,Bristol,Model C,Night,Cloudy,3,Level 2,Follow-up needed
+2025-08-17,ENG003,INST009,Upgrade,26,Leeds,Model C,Morning,Rainy,8,Level 1,Routine check completed
+2025-05-18,ENG004,INST010,Repair,20,Edinburgh,Model B,Night,Snowy,2,Level 2,Replaced worn parts
+2025-06-09,ENG001,INST009,Calibration,64,Newcastle,Model C,Morning,Sunny,6,Level 3,Follow-up needed
+2025-07-09,ENG001,INST016,Calibration,22,Bristol,Model C,Afternoon,Snowy,8,Level 2,Follow-up needed
+2025-09-25,ENG005,INST010,Repair,33,Glasgow,Model B,Afternoon,Snowy,5,Expert,No issues found
+2025-04-27,ENG001,INST016,Repair,36,Glasgow,Model A,Morning,Snowy,4,Level 3,No issues found
+2025-06-09,ENG008,INST012,Calibration,49,London,Model B,Afternoon,Cloudy,4,Level 3,Routine check completed
+2025-08-20,ENG009,INST015,Routine Check,59,Edinburgh,Model D,Morning,Sunny,2,Level 3,Follow-up needed
+2025-09-04,ENG004,INST019,Upgrade,50,Newcastle,Model B,Afternoon,Rainy,3,Expert,Calibration required
+2025-08-23,ENG006,INST010,Upgrade,85,Leeds,Model C,Morning,Snowy,6,Level 1,Calibration required
+2025-05-12,ENG010,INST006,Routine Check,21,Liverpool,Model C,Morning,Cloudy,8,Level 2,Replaced worn parts
+2025-05-28,ENG003,INST010,Calibration,79,Bristol,Model B,Night,Rainy,1,Level 3,Follow-up needed
+2025-09-10,ENG006,INST020,Calibration,79,Edinburgh,Model D,Afternoon,Snowy,9,Level 2,Follow-up needed
+2025-04-03,ENG003,INST010,Upgrade,61,Manchester,Model B,Afternoon,Rainy,8,Level 2,Replaced worn parts
+2025-05-06,ENG003,INST003,Repair,82,Newcastle,Model D,Night,Sunny,10,Level 3,Calibration required
+2025-05-17,ENG005,INST017,Calibration,75,Bristol,Model A,Night,Cloudy,3,Expert,Follow-up needed
+2025-06-27,ENG009,INST019,Upgrade,50,Liverpool,Model C,Night,Rainy,9,Level 2,Follow-up needed
+2025-08-18,ENG007,INST020,Upgrade,20,Glasgow,Model C,Morning,Rainy,1,Level 2,Routine check completed
+2025-07-27,ENG009,INST014,Calibration,21,Glasgow,Model C,Morning,Cloudy,1,Expert,Replaced worn parts
+2025-05-19,ENG001,INST001,Routine Check,34,Liverpool,Model D,Morning,Cloudy,9,Level 1,No issues found
+2025-06-18,ENG002,INST002,Routine Check,26,Leeds,Model A,Night,Cloudy,8,Level 3,Replaced worn parts
+2025-09-12,ENG005,INST018,Routine Check,52,Bristol,Model C,Morning,Rainy,8,Level 2,Follow-up needed
+2025-09-09,ENG010,INST012,Routine Check,69,Birmingham,Model D,Night,Cloudy,1,Expert,Calibration required
+2025-04-29,ENG008,INST007,Routine Check,32,Leeds,Model D,Afternoon,Cloudy,10,Level 2,Follow-up needed
+2025-04-01,ENG002,INST015,Upgrade,78,Liverpool,Model D,Afternoon,Sunny,6,Expert,No issues found
+2025-06-08,ENG003,INST011,Calibration,88,Leeds,Model C,Night,Rainy,1,Level 3,Replaced worn parts
+2025-07-14,ENG010,INST018,Routine Check,32,Edinburgh,Model A,Morning,Rainy,8,Level 1,Routine check completed
+2025-06-28,ENG010,INST008,Routine Check,52,Birmingham,Model B,Night,Cloudy,4,Level 3,Replaced worn parts
+2025-06-09,ENG007,INST017,Routine Check,65,Sheffield,Model A,Morning,Snowy,8,Level 2,No issues found
+2025-04-02,ENG008,INST015,Calibration,89,Leeds,Model D,Afternoon,Sunny,3,Level 1,Calibration required
+2025-06-10,ENG002,INST020,Calibration,38,Birmingham,Model C,Afternoon,Rainy,10,Level 1,Routine check completed
+2025-08-23,ENG005,INST014,Repair,69,Liverpool,Model A,Night,Rainy,2,Expert,Routine check completed
+2025-08-09,ENG008,INST002,Repair,53,London,Model C,Morning,Cloudy,9,Level 3,No issues found
+2025-06-05,ENG002,INST002,Calibration,21,London,Model A,Night,Sunny,3,Expert,Calibration required
+2025-08-25,ENG003,INST016,Repair,49,Bristol,Model A,Night,Sunny,4,Level 2,Follow-up needed
+2025-06-12,ENG001,INST004,Upgrade,68,Glasgow,Model C,Night,Rainy,9,Expert,Calibration required
+2025-05-30,ENG008,INST001,Repair,61,Manchester,Model A,Morning,Snowy,7,Level 2,Follow-up needed
+2025-05-24,ENG005,INST003,Repair,29,Sheffield,Model D,Night,Sunny,8,Expert,Routine check completed
+2025-05-02,ENG005,INST014,Routine Check,53,Liverpool,Model D,Morning,Rainy,3,Expert,No issues found
+2025-08-12,ENG006,INST011,Upgrade,50,Glasgow,Model D,Afternoon,Cloudy,2,Level 1,Calibration required
+2025-07-18,ENG005,INST015,Calibration,47,Newcastle,Model C,Morning,Rainy,1,Level 1,Calibration required
+2025-05-04,ENG005,INST014,Repair,32,London,Model D,Afternoon,Cloudy,2,Level 3,Replaced worn parts
+2025-07-01,ENG010,INST001,Upgrade,58,Bristol,Model A,Morning,Cloudy,4,Expert,Replaced worn parts
+2025-05-13,ENG007,INST017,Calibration,20,Manchester,Model D,Morning,Cloudy,9,Level 1,Follow-up needed
+2025-07-23,ENG004,INST002,Calibration,90,Birmingham,Model A,Afternoon,Cloudy,5,Level 3,Follow-up needed
+2025-08-05,ENG004,INST007,Repair,45,Sheffield,Model A,Night,Rainy,5,Level 1,Routine check completed
+2025-08-20,ENG007,INST001,Calibration,51,Sheffield,Model A,Night,Snowy,9,Expert,Follow-up needed
+2025-04-13,ENG009,INST001,Routine Check,80,Leeds,Model C,Afternoon,Cloudy,1,Level 3,Routine check completed
+2025-09-20,ENG005,INST016,Upgrade,59,London,Model D,Morning,Sunny,6,Level 2,Replaced worn parts
+2025-09-18,ENG002,INST012,Routine Check,29,Edinburgh,Model A,Afternoon,Rainy,1,Expert,Follow-up needed
+2025-07-01,ENG004,INST017,Calibration,70,Liverpool,Model C,Morning,Sunny,7,Level 2,No issues found
+2025-06-05,ENG008,INST002,Repair,58,Sheffield,Model A,Afternoon,Rainy,2,Level 1,Replaced worn parts
+2025-05-25,ENG010,INST013,Routine Check,28,London,Model B,Afternoon,Sunny,6,Level 2,Routine check completed
+2025-09-05,ENG006,INST002,Upgrade,30,London,Model A,Morning,Cloudy,5,Level 1,Routine check completed
+2025-09-17,ENG004,INST012,Repair,24,London,Model C,Morning,Sunny,4,Level 1,Routine check completed
+2025-06-12,ENG001,INST009,Calibration,50,Sheffield,Model A,Morning,Sunny,8,Level 2,Replaced worn parts
+2025-04-19,ENG010,INST013,Upgrade,58,Edinburgh,Model D,Night,Snowy,6,Level 2,Replaced worn parts
+2025-06-16,ENG009,INST003,Upgrade,38,Sheffield,Model D,Afternoon,Snowy,6,Expert,No issues found
+2025-09-02,ENG008,INST016,Calibration,31,Glasgow,Model B,Afternoon,Snowy,10,Level 2,Calibration required
+2025-04-21,ENG003,INST018,Calibration,52,London,Model A,Night,Sunny,8,Level 3,No issues found
+2025-06-02,ENG006,INST003,Calibration,41,London,Model A,Afternoon,Sunny,5,Level 3,Follow-up needed
+2025-05-15,ENG010,INST008,Repair,46,Liverpool,Model B,Afternoon,Rainy,9,Level 1,Routine check completed
+2025-04-28,ENG009,INST008,Routine Check,51,Sheffield,Model C,Night,Rainy,2,Expert,Replaced worn parts
+2025-08-16,ENG003,INST009,Routine Check,74,Bristol,Model C,Afternoon,Cloudy,10,Expert,Calibration required
+2025-04-24,ENG005,INST001,Repair,85,Edinburgh,Model C,Night,Sunny,6,Level 3,Replaced worn parts
+2025-06-25,ENG007,INST002,Repair,45,Edinburgh,Model B,Morning,Cloudy,2,Level 3,Routine check completed
+2025-07-26,ENG010,INST002,Calibration,46,Manchester,Model B,Afternoon,Rainy,5,Level 3,No issues found
+2025-07-29,ENG008,INST002,Upgrade,73,London,Model C,Night,Cloudy,6,Expert,Routine check completed
+2025-09-30,ENG002,INST012,Routine Check,40,Sheffield,Model A,Morning,Sunny,2,Expert,Follow-up needed
+2025-05-29,ENG001,INST005,Upgrade,88,Birmingham,Model B,Morning,Rainy,10,Expert,Replaced worn parts
+2025-07-23,ENG010,INST006,Routine Check,43,London,Model C,Morning,Rainy,1,Level 2,Replaced worn parts
+2025-07-25,ENG010,INST008,Routine Check,56,Liverpool,Model B,Morning,Cloudy,8,Level 3,Follow-up needed
+2025-07-09,ENG005,INST009,Calibration,68,Newcastle,Model A,Night,Snowy,10,Level 2,No issues found
+2025-09-26,ENG007,INST007,Routine Check,85,Manchester,Model C,Night,Sunny,1,Expert,Follow-up needed
+2025-06-21,ENG010,INST012,Upgrade,51,Bristol,Model D,Afternoon,Snowy,1,Level 1,Replaced worn parts
+2025-08-26,ENG006,INST014,Upgrade,76,Edinburgh,Model B,Night,Sunny,3,Level 2,Replaced worn parts
+2025-09-27,ENG004,INST018,Calibration,48,Sheffield,Model A,Morning,Sunny,7,Level 1,No issues found
+2025-05-18,ENG007,INST002,Calibration,81,London,Model A,Night,Cloudy,10,Expert,Calibration required
+2025-09-08,ENG008,INST009,Calibration,77,Liverpool,Model C,Night,Snowy,9,Level 2,Calibration required
+2025-08-22,ENG001,INST010,Upgrade,51,Birmingham,Model D,Afternoon,Sunny,4,Level 3,Calibration required
+2025-08-30,ENG003,INST010,Routine Check,60,Liverpool,Model D,Morning,Rainy,1,Expert,Routine check completed
+2025-04-12,ENG003,INST019,Repair,72,Newcastle,Model C,Morning,Cloudy,9,Level 1,No issues found
+2025-05-09,ENG005,INST008,Upgrade,73,Birmingham,Model D,Afternoon,Cloudy,9,Level 2,No issues found
+2025-09-05,ENG001,INST018,Repair,46,Newcastle,Model A,Night,Rainy,1,Level 2,Follow-up needed
+2025-05-22,ENG001,INST015,Routine Check,29,Bristol,Model A,Afternoon,Rainy,8,Level 3,Replaced worn parts
+2025-07-18,ENG002,INST008,Upgrade,56,Birmingham,Model A,Night,Snowy,4,Level 2,Calibration required
+2025-04-10,ENG003,INST017,Routine Check,36,Glasgow,Model C,Afternoon,Snowy,1,Level 3,Follow-up needed
+2025-06-07,ENG004,INST012,Upgrade,76,London,Model B,Night,Snowy,4,Level 1,Follow-up needed
+2025-06-26,ENG007,INST020,Repair,64,Edinburgh,Model D,Night,Snowy,8,Level 3,Replaced worn parts
+2025-04-25,ENG002,INST006,Upgrade,51,Glasgow,Model C,Morning,Rainy,3,Level 3,No issues found
+2025-04-02,ENG001,INST004,Upgrade,44,Bristol,Model D,Morning,Rainy,1,Expert,Calibration required
+2025-05-03,ENG004,INST018,Routine Check,81,Birmingham,Model B,Afternoon,Rainy,8,Expert,Replaced worn parts
+2025-06-08,ENG004,INST020,Calibration,37,Birmingham,Model B,Morning,Sunny,4,Level 2,No issues found
+2025-06-12,ENG005,INST014,Repair,82,London,Model B,Afternoon,Sunny,4,Expert,No issues found
+2025-04-29,ENG010,INST016,Routine Check,82,Sheffield,Model D,Afternoon,Sunny,3,Level 2,Routine check completed
+2025-04-27,ENG007,INST004,Upgrade,78,Glasgow,Model C,Afternoon,Cloudy,9,Level 3,Calibration required
+2025-06-12,ENG004,INST008,Repair,58,Edinburgh,Model C,Afternoon,Sunny,3,Level 3,Follow-up needed
+2025-08-26,ENG005,INST016,Repair,72,London,Model D,Afternoon,Cloudy,1,Level 1,Routine check completed
